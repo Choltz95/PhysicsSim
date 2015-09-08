@@ -16,3 +16,5 @@ in progress:
  * 
 todo
  * visualization of interesting mathematical sets ie julia sets.
+
+further work: https://github.com/Choltz95/n-bodyjs
